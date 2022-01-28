@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Approximate Message Passing | Alessandro Perelli</title>
+    <link>https://alperelli.github.io/tag/approximate-message-passing/</link>
+      <atom:link href="https://alperelli.github.io/tag/approximate-message-passing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Approximate Message Passing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alperelli.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Approximate Message Passing</title>
+      <link>https://alperelli.github.io/tag/approximate-message-passing/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Inference for Inverse Problems</title>
+      <link>https://alperelli.github.io/project/amp_imaging/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://alperelli.github.io/project/amp_imaging/</guid>
+      <description>&lt;p&gt;In order to accelerate the reconstruction, it is necessary to either design faster CT operators or develop iterative algorithms that can converge in fewer iterations.
+In this project, we investigate the use of an emerging reconstruction method from Compressed Sensing (CS), called Approximate Message Passing (AMP), for sparse view CT reconstruction.&lt;/p&gt;
+&lt;p&gt;AMP based inference refers to a family of iterative algorithms for Compressed Sensing problems with an i.i.d. random Gaussian system matrix and a sparse signal model. AMP is a form of approximate Bayesian inference based on the notion of message passing or loopy belief propagation and is also strongly connected to the family of Expectation Propagation and Expectation Consistent approximation algorithms.&lt;/p&gt;
+&lt;p&gt;In essence, message passing algorithms work by iteratively updating marginal probabilities on
+the unknown variables until a locally consistent posterior probability model is obtained. The
+compelling aspect of the AMP family of algorithms is that they are designed to work in the
+large system limit (for random systems) which enables the central limit theorem to be invoked.
+This in turn simplifies the messages to be Gaussian distributions, requiring the algorithm to
+only pass means and variances. The result is a very efficient algorithm that is remarkably
+similar to the more traditional iterative shrinkage algorithm but with an additional Onsager
+correction term. It also has many similarities to the Alternating Direction Method of
+Multipliers (ADMM) algorithm.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
