@@ -35,7 +35,7 @@ publication_short: In IEEE Transactions on Radiation and Plasma Medical Sciences
 abstract: Spectral computed tomography (CT) has recently emerged as an advanced version of medical CT and significantly improves conventional (single-energy) CT. Spectral CT has two main forms, dual-energy computed tomography (DECT) and photon-counting computed tomography (PCCT), which offer image improvement, material decomposition, and feature quantification relative to conventional CT. However, the inherent challenges of spectral CT, evidenced by data and image artifacts, remain a bottleneck for clinical applications. To address these problems, machine learning techniques have been widely applied to spectral CT. In this review, we present the state-of-the-art data-driven techniques for spectral CT.
 
 # Summary. An optional shortened abstract.
-summary: Spectral Computed Tomography (CT) is an emerging technology that enables to estimate the concentration of basis materials within a scanned object by exploiting different photon energy spectra. In this work, we aim at efficiently solving a model-based maximum-a-posterior problem to reconstruct multimaterials images with application to spectral CT. 
+summary: Spectral computed tomography (CT) has recently emerged as an advanced version of medical CT and significantly improves conventional (single-energy) CT. However, the inherent challenges of spectral CT, evidenced by data and image artifacts, remain a bottleneck for clinical applications. To address these problems, machine learning techniques have been widely applied to spectral CT. In this review, we present the state-of-the-art data-driven techniques for spectral CT.
 
 tags: []
 

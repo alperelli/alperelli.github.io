@@ -42,6 +42,24 @@ experience:
     date_end: '2024-02-28'
     description: 'A self-funded PhD research project on "Robust Deep Learning for Medical Image Reconstruction" is advertised on [FindAPhD](https://www.findaphd.com/phds/project/robust-deep-learning-for-medical-image-reconstruction/?p143253). Deadline 28 February 2024. For enquiries please email me (aperelli001@dundee.ac.uk).'
 
+  - title: 'New Paper: Uconnect Synergistic Spectral CT Reconstruction With U-Nets Connecting the Energy Bins'
+    company: 'IEEE Transactions on Radiation and Plasma Medical Sciences'
+    company_url: ''
+    company_logo: icon
+    location: ''
+    date_start: '2023-11-01'
+    date_end: ''
+    description: 'A novel synergistic method for spectral CT reconstruction, namely Uconnect is published in [IEEE TRPMS](https://arxiv.org/abs/2311.00666). It utilizes trained convolutional neural networks to connect the energy bins to a latent image so that the full binned data is used synergistically.'
+
+  - title: 'New Paper: Systematic Review on Learning-based Spectral CT'
+    company: 'IEEE Transactions on Radiation and Plasma Medical Sciences'
+    company_url: ''
+    company_logo: icon
+    location: ''
+    date_start: '2023-10-01'
+    date_end: ''
+    description: 'In this review, we present the state-of-the-art data-driven techniques for spectral CT. Check out in [IEEE TRPMS](https://arxiv.org/abs/2304.07588).'
+
   - title: 'Opportunities for prospective Postdoc and PhD students'
     company: ''
     company_url: ''
