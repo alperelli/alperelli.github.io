@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Spectral CT
+    tag:  Spectral CT
   - name: Deep Learning
     tag:  Deep Learning
   - name: Optimization
