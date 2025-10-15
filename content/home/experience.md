@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Lecturer in Artificial Intelligence
+    company: University of Glasgow
+    company_url: '[https://www.gla.ac.uk](https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alessandroperelli/)'
+    company_logo: icon
+    location: Dundee, United Kingdom
+    date_start: '2025-09-01'
+    date_end: ''
+    description: ''
+  
   - title: Lecturer in Biomedical Engineering
     company: University of Dundee
     company_url: 'https://www.dundee.ac.uk'
