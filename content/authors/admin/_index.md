@@ -6,12 +6,12 @@ title: Alessandro Perelli
 superuser: true
 
 # Role/position/tagline
-role: Lecturer in Biomedical Engineering
+role: Lecturer in Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: University of Dundee
-  url: https://www.dundee.ac.uk/
+organizations: 
+- name: University of Glasgow
+  url: [https://www.gla.ac.uk/](https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alessandroperelli/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
