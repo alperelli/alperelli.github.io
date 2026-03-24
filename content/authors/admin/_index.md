@@ -11,7 +11,7 @@ role: Lecturer in Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations: 
 - name: University of Glasgow
-  url: [https://www.gla.ac.uk/](https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alessandroperelli/)
+  url: https://www.gla.ac.uk/schools/cardiovascularmetabolic/staff/alessandroperelli/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
